@@ -1,8 +1,8 @@
-# Fullstack MERN Blogging Website
+# Blogger - A Blogging Platform
 
-Fork this repo of "MERN Blogging Website" to start following the video tutorial.
+Blogger is a modern blogging platform built with React, Node.js, Express, and MongoDB. It provides a user-friendly interface for writing and managing blogs, with features like Google authentication, dynamic blog pages, and a responsive design.
+This project is designed to be a full-stack application, showcasing the capabilities of modern web development technologies and practices. It includes a client-side built with React and Vite, and a server-side built with Node.js and Express, connected to a MongoDB database.
 
-Checkout website demo - [Demo](https://youtu.be/J7BGuuuvDDk)
 
 ![Thumbnail](https://c10.patreonusercontent.com/4/patreon-media/p/post/90122909/dd5363bd03fb4a6c8fcd5d15df98e6bf/eyJ3Ijo4MjB9/1.png?token-time=1697414400&token-hash=BZ-Mzp19WnBLcCFB8LmJFDw98mpnCRGcOCt_T615miY%3D)
 
